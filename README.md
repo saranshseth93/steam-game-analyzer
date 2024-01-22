@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Project Details
+
+This project uses:
+
+1. NextJS, ReactJS, Axios, TailwindCSS
+2. SteamAPI
+3. [DaisyUI](https://daisyui.com/) for themeing TailwindCSS
 
 ## Getting Started
 
