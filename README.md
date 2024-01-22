@@ -1,6 +1,6 @@
 ## Project Details
 
-![Project image](https://i.ibb.co/qCKnSQS/Steam-Game-Analyser.png)
+![Project image](https://i.ibb.co/HC62S8S/Steam-Game-Analyser.png)
 
 This project uses:
 
