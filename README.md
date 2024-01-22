@@ -6,8 +6,9 @@ First, get your own API key from [SteamAPI](https://developer.valvesoftware.com/
 
 Second, download this project and create a .env file in the root directory of the project and add your API key to it like this:
 
-````bash
+```bash
 STEAM_API_KEY=xxxxxxxx
+```
 
 Then install the dependencies:
 
@@ -15,7 +16,7 @@ Then install the dependencies:
 npm install
 # or
 yarn install
-
+```
 
 Then, run the development server:
 
@@ -27,4 +28,4 @@ yarn dev
 pnpm dev
 # or
 bun dev
-````
+```
