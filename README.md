@@ -1,10 +1,14 @@
 ## Project Details
 
+![Project image](https://i.ibb.co/qCKnSQS/Steam-Game-Analyser.png)
+
 This project uses:
 
 1. NextJS, ReactJS, Axios, TailwindCSS
 2. SteamAPI
 3. [DaisyUI](https://daisyui.com/) for themeing TailwindCSS
+
+[Live Demo](https://steam-game-analyzer.netlify.app/)
 
 ## Getting Started
 
